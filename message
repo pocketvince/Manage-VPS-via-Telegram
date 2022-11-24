@@ -1,0 +1,6 @@
+#!/bin/bash
+sleep 2
+yourid='123456789'
+botid='bot0000000000'
+apikey='XXXX_XXXXXXXXXXXXXXXXXXXXXX'
+curl -s "https://api.telegram.org/$botid:$apikey/sendMessage?chat_id=$yourid&text=$1"
