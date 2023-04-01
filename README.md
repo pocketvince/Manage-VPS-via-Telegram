@@ -1,7 +1,7 @@
 # Manage VPS via Telegram
 Telegram
 
-![Alt text](https://github.com/pocketvince/Telegram/blob/main/telegram.gif?raw=true "todo")
+![Alt text](https://github.com/pocketvince/Manage-VPS-via-Telegram/blob/main/telegram.gif?raw=true "todo")
 
 Shell script to send commands to your VPS via Telegram
 
